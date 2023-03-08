@@ -1,2 +1,2 @@
 #!/bin/bash
-ln /tmp/sym/__ls__ /bin/ls | ls -la /tmp/sym 
+ln -s /tmp/sym/__ls__ /bin/ls 
