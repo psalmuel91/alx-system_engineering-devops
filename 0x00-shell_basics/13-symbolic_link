@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /tmp/sym | ln /tmp/sym/__ls__ /bin/ls | ls -la 
+ln /tmp/sym/__ls__ /bin/ls | ls -la /tmp/sym 
