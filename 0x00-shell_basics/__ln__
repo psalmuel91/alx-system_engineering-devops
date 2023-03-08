@@ -1,2 +1,0 @@
-#!/bin/bash
-ln /tmp/sym/__ls__ /bin/ls && cd /tmp/sym && ls -la
