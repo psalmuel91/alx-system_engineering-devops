@@ -1,2 +1,2 @@
 #!/bin/bash
-chown root:vincent _hello | chgrp root:staff _hello
+sudo chown root:vincent _hello | sudo chgrp root:staff _hello
